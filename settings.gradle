@@ -1,0 +1,4 @@
+include ':ketrofit'
+include ':lib'
+include ':app'
+rootProject.name = "KotlinNet"
